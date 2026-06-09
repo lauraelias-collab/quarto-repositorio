@@ -1,0 +1,6 @@
+{
+  "name": "Calculadora de Engajamento",
+  "description": "Sistema para calcular, analisar e simular o engajamento (curtidas, comentários e compartilhamentos) de publicações nas redes sociais.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
